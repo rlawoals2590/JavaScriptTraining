@@ -1,0 +1,3 @@
+let weLivingPlanet;
+
+let connectUserName;
